@@ -1,0 +1,82 @@
+[
+	{
+		"model": "movies.detail",
+		"pk": 1,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/11/5fc3cbc27da64a1983c9abc90599d185.jpg",
+			"movie_detail": "장편 | 일반영화 | 액션, 어드벤처, 드라마 | 161분 7초 | 12세이상관람가 | 미국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 2,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/11/f05bd85b36414a6fa0b27c359c738a10.jpg",
+			"movie_detail": "장편 | 일반영화 | 액션 | 109분 57초 | 12세이상관람가 | 한국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 3,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/10/31d949deb7a1403f81af7a549757eddb.jpg",
+			"movie_detail": "장편 | 일반영화 | 멜로/로맨스 | 114분 0초 | 12세이상관람가 | 한국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 4,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/10/6e3b8a87bb054e5faf8ac77306c6bcdb.jpg",
+			"movie_detail": "장편 | 일반영화 | 스릴러, 액션 | 106분 45초 | 12세이상관람가 | 영국, 미국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 5,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/10/b43a0f73176445cba04b8c596da187af.jpg",
+			"movie_detail": "장편 | 일반영화 | 범죄, 스릴러 | 105분 3초 | 15세이상관람가 | 한국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 6,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/09/b645f75382984dabba60da207ecf1bde.jpg",
+			"movie_detail": "장편 | 일반영화 | 액션, 코미디 | 139분 28초 | 15세이상관람가 | 미국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 7,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/09/3a42c34d2c72428d849f8f485f1e791a.jpg",
+			"movie_detail": "장편 | 일반영화 | 뮤지컬 | 122분 25초 | 12세이상관람가 | 한국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 8,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/10/baa5f5d78c434f82858bb9e52bd71c93.jpg",
+			"movie_detail": "장편 | 일반영화 | 멜로/로맨스, 판타지 | 102분 59초 | 12세이상관람가 | 한국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 9,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/11/e6090d4e309f414c8ed4e3fa45982930.jpg",
+			"movie_detail": "장편 | 일반영화 | 액션, 드라마 | 150분 45초 | 12세이상관람가 | 한국"
+		}
+	},
+	{
+		"model": "movies.detail",
+		"pk": 10,
+		"fields": {
+			"poster_path": "https://www.kobis.or.kr/common/mast/movie/2022/10/abdafd668010482bade5e41d7eec75cd.jpg",
+			"movie_detail": "장편 | 일반영화 | 애니메이션 | 84분 16초 | 전체관람가 | 페루, 네덜란드, 미국"
+		}
+	}
+]
